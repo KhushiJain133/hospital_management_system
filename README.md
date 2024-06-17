@@ -1,3 +1,5 @@
+This project has mainly three modules admin, patient and doctor. This include functionality like scheduling appointment, manage patient details, manage doctor details.
+
 ## Prerequisites:
 Any Editor (Preferably Ecllips),
 Any web browser with latest version
